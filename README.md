@@ -36,7 +36,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prajwalmohapatra&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prajwal-Mohapatra&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
