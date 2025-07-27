@@ -26,19 +26,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-
----
-
-// ### 📈 My GitHub Stats
-// <p align="center">
-//  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=tokyonight" alt="Prajwal's GitHub stats" />//
-// </p>
-
----
-
-// [![trophy](https://github-profile-trophy.vercel.app/?username=Prajwal-Mohapatra&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 
 ### 📬 Connect with me
