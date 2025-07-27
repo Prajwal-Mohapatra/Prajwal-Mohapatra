@@ -29,14 +29,14 @@
 
 ---
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=tokyonight" alt="Prajwal's GitHub stats" />
-</p>
+// ### 📈 My GitHub Stats
+// <p align="center">
+//  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=tokyonight" alt="Prajwal's GitHub stats" />//
+// </p>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prajwal-Mohapatra&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+// [![trophy](https://github-profile-trophy.vercel.app/?username=Prajwal-Mohapatra&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
