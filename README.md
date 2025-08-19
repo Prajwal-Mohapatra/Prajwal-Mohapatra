@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Prajwal Mohapatra
 
-🌱 I'm a passionate developer and researcher working at the intersection of **AI/ML**, **Robotics**, and **Remote Sensing**.
+I'm a passionate developer and researcher working at the intersection of **AI/ML**, **Robotics**, and **Remote Sensing**.
 
-- 🔬 Currently working on: **Forest Fire Prediction using Satellite Data + Deep Learning** and **Robot Grasp Detection using RGBD**
-- 🤖 Interested in: Robotics, Environmental ML, AI for Social Good
-- 💡 Projects: Grasp Detection using RGBD | ResUNet-a Fire Prediction Model | Social Learning Platform (in progress)
+- Currently working on: **Forest Fire Prediction using Satellite Data + Deep Learning** and **Robot Grasp Detection using RGBD**
+- Interested in: Robotics, Environmental ML, AI for Social Good
+- Projects: Grasp Detection using RGBD | ResUNet-a Fire Prediction Model | Social Learning Platform (in progress)
 
 ---
 
 ### 🔧 Technologies & Tools
-### 🧰 Tools & Tech
+### Tools & Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -28,9 +28,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmohapatra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
