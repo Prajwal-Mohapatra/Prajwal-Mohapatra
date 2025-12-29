@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prajwal Mohapatra
+# Hi, I'm Prajwal Mohapatra
 
 I'm a passionate developer and researcher working at the intersection of **AI/ML**, **Robotics**, and **Remote Sensing**.
 
@@ -8,7 +8,7 @@ I'm a passionate developer and researcher working at the intersection of **AI/ML
 
 ---
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 ### Tools & Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ I'm a passionate developer and researcher working at the intersection of **AI/ML
 
 ---
 
-### 📬 Connect with me
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prajwalmohapatra)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/prajwalmohapatra)
 
