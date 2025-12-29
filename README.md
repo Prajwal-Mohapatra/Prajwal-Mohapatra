@@ -30,7 +30,7 @@ I'm a passionate developer and researcher working at the intersection of **AI/ML
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
