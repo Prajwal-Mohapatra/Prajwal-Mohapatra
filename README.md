@@ -43,7 +43,7 @@ class PrajwalMohapatra:
     @property
     def currently(self):
         return {
-            "learning"  : "Advanced Attention Mechanisms & Transformer Architectures",
+            "learning"  : "Advanced Attention Mechanisms, Reinforcement Learning & Transformer Architectures",
             "building"  : "Brain Tumor Segmentation with Attention U-Net",
             "leading"   : ["ML Lead @ Zairza Robo-Sof Club", "Design Lead @ ED-Cell OUTR"],
         }
