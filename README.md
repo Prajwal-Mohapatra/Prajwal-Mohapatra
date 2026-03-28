@@ -168,8 +168,9 @@ class PrajwalMohapatra:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Mohapatra&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" />
+<img height="180em" src="https://readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Mohapatra&layout=compact&theme=github_dark" />
 
 <br/>
 
