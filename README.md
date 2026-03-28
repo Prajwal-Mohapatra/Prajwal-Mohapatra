@@ -237,7 +237,3 @@ class PrajwalMohapatra:
 
 </div>
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prajwalmohapatra)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/prajwalmohapatra)
-
