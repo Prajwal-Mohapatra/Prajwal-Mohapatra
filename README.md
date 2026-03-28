@@ -168,8 +168,8 @@ class PrajwalMohapatra:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-ivory.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=Prajwal-Mohapatra&layout=compact&theme=github_dark&langs_count=8" />
+<!-- img height="180em" src="https://github-readme-stats-eight-ivory.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" /-->
+<!-- img height="180em" src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=Prajwal-Mohapatra&layout=compact&theme=github_dark&langs_count=8" /-->
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Mohapatra&theme=dark&background=0d1117&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=c9d1d9&border=30363d" />
