@@ -18,7 +18,7 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 ```python
 class PrajwalMohapatra:
@@ -51,13 +51,13 @@ class PrajwalMohapatra:
 
 ---
 
-## 🎓 Education
+## Education
 
-| 🏫 Institution | 📚 Degree | 📅 Year | 🏆 CGPA |
+| Institution | Degree | Year | CGPA |
 |---|---|---|---|
 | Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.12** |
 
-📖 **Coursework:** Robot Navigation · Artificial Intelligence · Robot Dynamics · Industry 4.0 · Intelligent Manufacturing
+**Coursework:** Robot Navigation · Artificial Intelligence · Robot Dynamics · Industry 4.0 · Intelligent Manufacturing
 
 ---
 
@@ -74,24 +74,24 @@ class PrajwalMohapatra:
 
 ## 🔬 Research & Publications
 
-### 📄 Peer-Reviewed Papers
+### Peer-Reviewed Papers
 
-| 📰 Title | 🏛️ Venue | 📅 Date |
+| Title | Venue | Date |
 |---|---|---|
 | [**Next-Day Forest Fire Risk Prediction Using ML and Multimodal Satellite Data**](https://sciforum.net/paper/view/27921) | 6th International Electronic Conference on Applied Sciences — *MDPI* | Dec 2025 |
 | **Predictive Modelling of Daily Wildfire Risk Using Multimodal Satellite Data and ML** | EFES International Scientific Research & Innovation Congress-III · ISBN: 979-8-89695-177-3 | Sep 2025 |
 
 ### 🔐 Patents
 
-| 💡 Title | 👥 Inventors | 📅 Date | 🗂️ ID |
+| Title | Inventors | Date | ID |
 |---|---|---|---|
 | Anti Rodents Naphthalene Vapor Dispenser for Automobiles | Dr. Sudhansu Sekhar Das, Prajwal Mohapatra | June 2025 | `449205-001 2` |
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🧠 Brain Tumor Segmentation using ML *(Ongoing)*
+### Brain Tumor Segmentation using ML *(Ongoing)*
 > Automated semantic segmentation of brain tumors using a modified **Attention U-Net** in TensorFlow on multi-modal MRI scans (BRATS dataset).
 
 ![Dice Score](https://img.shields.io/badge/Dice%20Coefficient-0.61-brightgreen?style=flat-square)
@@ -102,7 +102,7 @@ class PrajwalMohapatra:
 
 ---
 
-### 🦾 Robot Grasping using CNN
+### Robot Grasping using CNN
 > Pixel-wise robotic grasp detection with **GR-ConvNet** (Generative Residual ConvNet) trained on the Cornell Dataset.
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-85.23%25-brightgreen?style=flat-square)
@@ -112,7 +112,7 @@ class PrajwalMohapatra:
 
 ---
 
-### 🌲 Forest Fire Spread Simulation using AI/ML
+### Forest Fire Spread Simulation using AI/ML
 > **ResUNet-a** model for next-day fire probability prediction from multi-band satellite data (weather, terrain, vegetation).
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -122,7 +122,7 @@ class PrajwalMohapatra:
 
 ---
 
-### ☀️ Rooftop Solar Energy Potential Mapping
+### Rooftop Solar Energy Potential Mapping
 > CNN-based building footprint extraction from satellite imagery to generate solar potential maps — built at **Bharatiya Antariksh Hackathon 2024** (ISRO × Hack2Skill).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -193,9 +193,9 @@ class PrajwalMohapatra:
 
 ---
 
-## 💼 Experience & Leadership
+## Experience & Leadership
 
-| 🏢 Role | 🏛️ Organization | 📅 Period |
+| Role | Organization | Period |
 |---|---|---|
 | **Intern** | Jindal Stainless Limited | Jun 2025 – Jul 2025 |
 | **ML Lead** | Zairza (Robo-Sof Club), OUTR | Dec 2025 – Present |
@@ -203,22 +203,14 @@ class PrajwalMohapatra:
 
 ---
 
-## 📚 Certifications & Courses
+## Certifications & Courses
 
-- 🎓 **Deep Learning with Keras and TensorFlow** — IBM (Coursera)
-- 🛰️ **GIS, Drones and Machine Learning for Resource Mapping** — NPTEL+
-- 📊 **Data Science & Its Applications** — 15-Day Workshop, NIT Raipur CSE Dept.
-- ⚛️ **Quantum Computing & Its Application** — EduxLabs
-- 📈 **Data Visualization with Python** — Coursera
-- 🐍 **Get Started with Python** — Google (Coursera)
-
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Proficient-2196F3?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Native-FF9800?style=flat-square)
-![Odia](https://img.shields.io/badge/Odia-Native-4CAF50?style=flat-square)
+- **Deep Learning with Keras and TensorFlow** — IBM (Coursera)
+- **GIS, Drones and Machine Learning for Resource Mapping** — NPTEL+
+- **Data Science & Its Applications** — 15-Day Workshop, NIT Raipur CSE Dept.
+- **Quantum Computing & Its Application** — EduxLabs
+- **Data Visualization with Python** — Coursera
+- **Get Started with Python** — Google (Coursera)
 
 ---
 
