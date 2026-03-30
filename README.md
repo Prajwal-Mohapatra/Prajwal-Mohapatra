@@ -57,8 +57,6 @@ class PrajwalMohapatra:
 |---|---|---|---|
 | Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.12** |
 
-**Coursework:** Robot Navigation · Artificial Intelligence · Robot Dynamics · Industry 4.0 · Intelligent Manufacturing
-
 ---
 
 ## 🏅 Honors & Awards
@@ -119,15 +117,6 @@ class PrajwalMohapatra:
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-grey?style=flat-square)
-
----
-
-### Rooftop Solar Energy Potential Mapping
-> CNN-based building footprint extraction from satellite imagery to generate solar potential maps — built at **Bharatiya Antariksh Hackathon 2024** (ISRO × Hack2Skill).
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -199,17 +188,6 @@ class PrajwalMohapatra:
 | **Intern** | Jindal Stainless Limited | Jun 2025 – Jul 2025 |
 | **ML Lead** | Zairza (Robo-Sof Club), OUTR | Dec 2025 – Present |
 | **Design Lead / Editor-in-Chief** | ED-Cell OUTR | Nov 2024 – Present |
-
----
-
-## Certifications & Courses
-
-- **Deep Learning with Keras and TensorFlow** — IBM (Coursera)
-- **GIS, Drones and Machine Learning for Resource Mapping** — NPTEL+
-- **Data Science & Its Applications** — 15-Day Workshop, NIT Raipur CSE Dept.
-- **Quantum Computing & Its Application** — EduxLabs
-- **Data Visualization with Python** — Coursera
-- **Get Started with Python** — Google (Coursera)
 
 ---
 
