@@ -89,7 +89,7 @@ class PrajwalMohapatra:
 
 ## Projects
 
-### Brain Tumor Segmentation using ML *(Ongoing)*
+### Brain Tumor Segmentation using ML
 > Automated semantic segmentation of brain tumors using a modified **Attention U-Net** in TensorFlow on multi-modal MRI scans (BRATS dataset).
 
 ![Dice Score](https://img.shields.io/badge/Dice%20Coefficient-0.61-brightgreen?style=flat-square)
