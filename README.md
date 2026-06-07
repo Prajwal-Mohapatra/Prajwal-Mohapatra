@@ -188,7 +188,6 @@ class PrajwalMohapatra:
 |---|---|---|
 | **Intern** | Jindal Stainless Limited | Jun 2025 – Jul 2025 |
 | **ML Lead** | Zairza (Robo-Sof Club), OUTR | Dec 2025 – Present |
-| **Design Lead / Editor-in-Chief** | ED-Cell OUTR | Nov 2024 – Present |
 
 ---
 
