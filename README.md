@@ -26,18 +26,18 @@ class PrajwalMohapatra:
         self.name        = "Prajwal Mohapatra"
         self.degree      = "B.Tech — Robotics & AI Engineering"
         self.university  = "Odisha University of Technology and Research (OUTR)"
-        self.cgpa        = 9.12
+        self.cgpa        = 9.14
         self.batch       = "2023 – 2027"
         self.location    = "Bhubaneswar, Odisha, India 🇮🇳"
 
     @property
     def interests(self):
         return [
-            "🧠 Deep Learning & Computer Vision",
-            "🤖 Robot Grasping & Navigation",
-            "🌍 Geospatial AI & Remote Sensing",
-            "🔥 Wildfire Prediction & Disaster Risk ML",
-            "🛰️ Satellite Imagery Analysis",
+            "Deep Learning & Computer Vision",
+            "Robot Grasping & Navigation",
+            "Geospatial AI & Remote Sensing",
+            "Wildfire Prediction & Disaster Risk ML",
+            "Satellite Imagery Analysis",
         ]
 
     @property
