@@ -55,7 +55,7 @@ class PrajwalMohapatra:
 
 | Institution | Degree | Year | CGPA |
 |---|---|---|---|
-| Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.12** |
+| Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.14** |
 
 ---
 
@@ -63,7 +63,7 @@ class PrajwalMohapatra:
 
 <div align="center">
 
-🥇 **OUTR Merit Scholarship** — *Two-time recipient (2024 & 2025)*
+🥇 **OUTR Merit Scholarship** — *Three-time recipient (2024, 2025 & 2026)*
 > Awarded for maintaining CGPA within the **top 10%** of the department, selected on academic performance and faculty recommendation.
 
 </div>
