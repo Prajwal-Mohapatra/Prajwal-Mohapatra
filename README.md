@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prajwal%20Mohapatra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Robotics%20%7C%20Computer%20Vision%20%7C%20Geospatial%20ML&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prajwal%20Mohapatra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%7C%20AI%20%7C%20Computer%20Vision%20%7C%20Geospatial%20ML&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prajwalmohapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmohapatra)
