@@ -26,7 +26,7 @@ class PrajwalMohapatra:
         self.name        = "Prajwal Mohapatra"
         self.degree      = "B.Tech — Robotics & AI Engineering"
         self.university  = "Odisha University of Technology and Research (OUTR)"
-        self.cgpa        = 9.14
+        self.cgpa        = 9.16
         self.batch       = "2023 – 2027"
         self.location    = "Bhubaneswar, Odisha, India 🇮🇳"
 
@@ -55,7 +55,7 @@ class PrajwalMohapatra:
 
 | Institution | Degree | Year | CGPA |
 |---|---|---|---|
-| Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.14** |
+| Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.16** |
 
 ---
 
