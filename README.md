@@ -51,42 +51,6 @@ class PrajwalMohapatra:
 
 ---
 
-## Education
-
-| Institution | Degree | Year | CGPA |
-|---|---|---|---|
-| Odisha University of Technology and Research | B.Tech in Robotics & AI Engineering | 2023 – 2027 | **9.16** |
-
----
-
-## 🏅 Honors & Awards
-
-<div align="center">
-
-🥇 **OUTR Merit Scholarship** — *Three-time recipient (2024, 2025 & 2026)*
-> Awarded for maintaining CGPA within the **top 10%** of the department, selected on academic performance and faculty recommendation.
-
-</div>
-
----
-
-## 🔬 Research & Publications
-
-### Peer-Reviewed Papers
-
-| Title | Venue | Date |
-|---|---|---|
-| [**Next-Day Forest Fire Risk Prediction Using ML and Multimodal Satellite Data**](https://sciforum.net/paper/view/27921) | 6th International Electronic Conference on Applied Sciences — *MDPI* | Dec 2025 |
-| **Predictive Modelling of Daily Wildfire Risk Using Multimodal Satellite Data and ML** | EFES International Scientific Research & Innovation Congress-III · ISBN: 979-8-89695-177-3 | Sep 2025 |
-
-### 🔐 Patents
-
-| Title | Inventors | Date | ID |
-|---|---|---|---|
-| Anti Rodents Naphthalene Vapor Dispenser for Automobiles | Dr. Sudhansu Sekhar Das, Prajwal Mohapatra | June 2025 | `449205-001 2` |
-
----
-
 ## Projects
 
 ### Brain Tumor Segmentation using ML
