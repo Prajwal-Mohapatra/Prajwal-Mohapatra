@@ -45,10 +45,7 @@ B.Tech student in Robotics & AI Engineering at OUTR (CGPA 9.16), working across 
 **Tools:** ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square) ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Mohapatra&theme=dark&hide_border=true" alt="Streak Stats" height="165"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Prajwal-Mohapatra&theme=dark&hide_border=true" alt="Streak Stats" height="165"/>
 </div>
