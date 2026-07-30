@@ -1,18 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prajwal%20Mohapatra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%7C%20AI%20%7C%20Computer%20Vision%20%7C%20Geospatial%20ML&descAlignY=58&descSize=18&animation=fadeIn" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer;Computer+Vision+%7C+Deep+Learning;Building+Autonomous+Systems+with+ROS2" alt="Typing SVG" />
+</a>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prajwalmohapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmohapatra)
-[![GitHub](https://img.shields.io/badge/GitHub-Prajwal--Mohapatra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal-Mohapatra)
-[![Gmail](https://img.shields.io/badge/Gmail-prajwal15krish%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal15krish@gmail.com)
-[![University Mail](https://img.shields.io/badge/OUTR-23110892%40outr.ac.in-005EB8?style=for-the-badge&logo=academia&logoColor=white)](mailto:23110892@outr.ac.in)
+### Prajwal Mohapatra
 
-<br/>
-
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Prajwal-Mohapatra&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-prajwal15krish%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwal15krish@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prajwalmohapatra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalmohapatra)
+[![GitHub](https://img.shields.io/badge/GitHub-Prajwal--Mohapatra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwal-Mohapatra)
 
 </div>
 
@@ -20,153 +15,40 @@
 
 ## About Me
 
-```python
-class PrajwalMohapatra:
-    def __init__(self):
-        self.name        = "Prajwal Mohapatra"
-        self.degree      = "B.Tech — Robotics & AI Engineering"
-        self.university  = "Odisha University of Technology and Research (OUTR)"
-        self.cgpa        = 9.16
-        self.batch       = "2023 – 2027"
-        self.location    = "Bhubaneswar, Odisha, India 🇮🇳"
+B.Tech student in Robotics & AI Engineering at OUTR (CGPA 9.16), working across robot perception, navigation, and applied deep learning. Currently focused on ROS2-based autonomous drone systems, alongside past work in medical image segmentation, robotic grasping, and geospatial ML for disaster prediction.
 
-    @property
-    def interests(self):
-        return [
-            "Deep Learning & Computer Vision",
-            "Robot Grasping & Navigation",
-            "Geospatial AI & Remote Sensing",
-            "Wildfire Prediction & Disaster Risk ML",
-            "Satellite Imagery Analysis",
-        ]
-
-    @property
-    def currently(self):
-        return {
-            "learning"  : "Advanced Attention Mechanisms, Reinforcement Learning & Transformer Architectures",
-            "building"  : "Brain Tumor Segmentation with Attention U-Net",
-            "leading"   : "ML Lead @ Zairza Robo-Sof Club",
-        }
-```
+- 🔭 Currently working on **autonomous drone planning & control** using ROS2 and Gazebo
+- 🧠 Interests: Robot Navigation, Computer Vision, Geospatial AI, Deep Learning
+- 🎓 ML Lead at Zairza (Robo-Sof Club), OUTR
+- 📝 Published research on wildfire risk prediction using multimodal satellite data
 
 ---
 
-## Projects
+## Featured Projects
 
-### Brain Tumor Segmentation using ML
-> Automated semantic segmentation of brain tumors using a modified **Attention U-Net** in TensorFlow on multi-modal MRI scans (BRATS dataset).
-
-![Dice Score](https://img.shields.io/badge/Dice%20Coefficient-0.61-brightgreen?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Accuracy-98%25-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-orange?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### Robot Grasping using CNN
-> Pixel-wise robotic grasp detection with **GR-ConvNet** (Generative Residual ConvNet) trained on the Cornell Dataset.
-
-![Accuracy](https://img.shields.io/badge/Accuracy-85.23%25-brightgreen?style=flat-square)
-![IoU](https://img.shields.io/badge/IoU-0.42-blue?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### Forest Fire Spread Simulation using AI/ML
-> **ResUNet-a** model for next-day fire probability prediction from multi-band satellite data (weather, terrain, vegetation).
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white)
-![Rasterio](https://img.shields.io/badge/Rasterio-grey?style=flat-square)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Libraries & Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Domains
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00897B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Geospatial Analysis](https://img.shields.io/badge/Geospatial%20Analysis-34A853?style=for-the-badge&logo=google-maps&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-1565C0?style=for-the-badge&logo=ros&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- img height="180em" src="https://github-readme-stats-eight-ivory.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" /-->
-<!-- img height="180em" src="https://github-readme-stats-eight-ivory.vercel.app/api/top-langs/?username=Prajwal-Mohapatra&layout=compact&theme=github_dark&langs_count=8" /-->
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Mohapatra&theme=dark&background=0d1117&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=c9d1d9&border=30363d" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-Mohapatra&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prajwal-Mohapatra&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-## Experience & Leadership
-
-| Role | Organization | Period |
+| Project | Description | Stack |
 |---|---|---|
-| **Intern** | Jindal Stainless Limited | Jun 2025 – Jul 2025 |
-| **ML Lead** | Zairza (Robo-Sof Club), OUTR | Dec 2025 – Present |
+| **[Brain Tumor Segmentation](https://github.com/Prajwal-Mohapatra/brain-tumor-unet)** | Attention U-Net for multi-modal MRI segmentation — 0.906 Dice, 99.35% accuracy on BRATS | `TensorFlow` `Python` |
+| **[Forest Fire Spread Prediction](https://github.com/Prajwal-Mohapatra/forest_fire_spread)** | ResUNet-a model predicting next-day fire risk from satellite/weather/terrain data | `TensorFlow` `QGIS` `GEE` |
+| **Robot Grasping (GR-ConvNet)** | Pixel-wise grasp detection on the Cornell Dataset — 85.2% accuracy, 0.42 IoU | `PyTorch` `Python` |
+| **[mycobot_ros2](https://github.com/Prajwal-Mohapatra/mycobot_ros2)** | ROS2 packages for the myCobot manipulator | `ROS2` `Python` |
+| **Autonomous Drone Planning & Control** *(private)* | Sensor fusion and planner-controller pipeline for simulated autonomous drone navigation | `ROS2` `Gazebo` |
+
+---
+
+## Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML/Robotics:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Tools:** ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square) ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 <div align="center">
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/Prajwal-Mohapatra/Prajwal-Mohapatra/output/snake.svg" alt="Snake animation" />
-
-<br/>
-
-*"Robotics without AI is just mechanism. AI without purpose is just math. I build the bridge."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Mohapatra&theme=dark&hide_border=true" alt="Streak Stats" height="165"/>
 
 </div>
-
