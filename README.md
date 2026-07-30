@@ -17,10 +17,10 @@
 
 B.Tech student in Robotics & AI Engineering at OUTR (CGPA 9.16), working across robot perception, navigation, and applied deep learning. Currently focused on ROS2-based autonomous drone systems, alongside past work in medical image segmentation, robotic grasping, and geospatial ML for disaster prediction.
 
-- 🔭 Currently working on **autonomous drone planning & control** using ROS2 and Gazebo
-- 🧠 Interests: Robot Navigation, Computer Vision, Geospatial AI, Deep Learning
-- 🎓 ML Lead at Zairza (Robo-Sof Club), OUTR
-- 📝 Published research on wildfire risk prediction using multimodal satellite data
+- Currently working on **autonomous drone planning & control** using ROS2 and Gazebo
+- Interests: Robot Navigation, Computer Vision, Geospatial AI, Deep Learning
+- ML Lead at Zairza (Robo-Sof Club), OUTR
+- Published research on wildfire risk prediction using multimodal satellite data
 
 ---
 
