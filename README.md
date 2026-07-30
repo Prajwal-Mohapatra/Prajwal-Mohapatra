@@ -47,7 +47,7 @@ B.Tech student in Robotics & AI Engineering at OUTR (CGPA 9.16), working across 
 ---
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=Prajwal-Mohapatra&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<!<img src="https://streak-stats.demolab.com/?user=Prajwal-Mohapatra&theme=dark&hide_border=true" alt="Streak Stats" height="165"/>>
+<!-- <img src="https://streak-stats.demolab.com/?user=Prajwal-Mohapatra&theme=dark&hide_border=true" alt="Streak Stats" height="165"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Mohapatra&theme=dark&background=0d1117&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=c9d1d9&border=30363d" />
 
 <br/>
