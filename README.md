@@ -34,7 +34,7 @@ B.Tech student in **Robotics & AI Engineering** at OUTR (CGPA: 9.16), working at
 | Project | What it does | Stack |
 |---|---|---|
 | **[mycobot_ros2](https://github.com/Prajwal-Mohapatra/mycobot_ros2)** | ROS2 packages for the myCobot 6-DoF manipulator — kinematics, joint control, motion planning | `ROS2` `Python` `C++` |
-| **Autonomous Drone Planning & Control** *(private)* | Sensor fusion and planner-controller pipeline for autonomous drone navigation in Gazebo simulation | `ROS2` `Gazebo` `Python` |
+| **[Autonomous Drone Planning & Control](https://github.com/Prajwal-Mohapatra/drone_sim_ros2)** *(private)* | Sensor fusion and planner-controller pipeline for autonomous drone navigation in Gazebo simulation | `ROS2` `Gazebo` `Python` |
 | **ROV for Marine Inspection** *(ongoing)* | 6-DoF underwater vehicle CAD design with hydrodynamic stability focus — design patent filed | `SolidWorks` `CAD` |
 | **[Robot Grasping — GR-ConvNet](https://github.com/Prajwal-Mohapatra/robot-grasping-grconvnet)** | Pixel-wise robotic grasp detection on the Cornell Dataset — **85.2% accuracy, 0.42 IoU** | `PyTorch` `OpenCV` `Python` |
 
